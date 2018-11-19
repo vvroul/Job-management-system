@@ -1,0 +1,12 @@
+submit ls
+suspend 1
+status 1
+resume 1
+submit pwd
+show-active 
+submit ls -l
+suspend 3
+resume 3
+status-all 10
+show-pools 	
+show-finished  
